@@ -1,0 +1,13 @@
+﻿  Brighten_assembly.cpp
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(418): warning C4101: 'bitmap': unreferenced local variable
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(317): warning C4731: 'assembly_brighten': frame pointer register 'ebp' modified by inline assembly code
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(324): warning C4731: 'assembly_brighten': frame pointer register 'ebp' modified by inline assembly code
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(329): warning C4731: 'assembly_brighten': frame pointer register 'ebp' modified by inline assembly code
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(335): warning C4731: 'assembly_brighten': frame pointer register 'ebp' modified by inline assembly code
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(354): warning C4731: 'assembly_brighten': frame pointer register 'ebp' modified by inline assembly code
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(370): warning C4731: 'assembly_brighten': frame pointer register 'ebp' modified by inline assembly code
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(394): warning C4731: 'assembly_brighten': frame pointer register 'ebp' modified by inline assembly code
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(202): warning C4731: 'mmx_brighten': frame pointer register 'ebp' modified by inline assembly code
+d:\school\fall 2016\comp - 3770 - windows programming\assignment5\asn5\asn5\brighten_assembly.cpp(225): warning C4799: function 'mmx_brighten' has no EMMS instruction
+  Asn5.vcxproj -> D:\School\Fall 2016\COMP - 3770 - Windows Programming\Assignment5\Asn5\Debug\Asn5.exe
+  Asn5.vcxproj -> D:\School\Fall 2016\COMP - 3770 - Windows Programming\Assignment5\Asn5\Debug\Asn5.pdb (Partial PDB)
